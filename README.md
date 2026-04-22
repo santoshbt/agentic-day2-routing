@@ -1,4 +1,4 @@
-# agentic-ai-emb-15-feb
+# agentic-ai-Apr
 Repository for Agentic AI Bootcamp - April Cohort
 
 # Windows - Anaconda Prompt
