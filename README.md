@@ -11,7 +11,9 @@ conda create --prefix ./env python=3.12 -y
 conda activate ./env 
 pip install -r requirements.txt
 
-python main.py```
+python main.py
 
-# We are not committing the .env file, please place your secrets in it
+```
+
+We are not committing the .env file, please place your secrets in it
 
